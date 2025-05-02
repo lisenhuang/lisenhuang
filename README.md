@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eason
+- 👋 Hi, I’m Ethan
 - 👀 I’m interested in web3
 - 🌱 I'm currently working on the front end of the web3
 - 💞️ I’m looking to collaborate on ...
