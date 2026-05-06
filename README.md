@@ -12,7 +12,6 @@ I enjoy creating products that solve real problems and make technology feel effo
 ## 🌱 Currently Working On
 - Developing **front-end SDKs** and **interactive web apps**
 - Experimenting with **AI integrations** to enhance user experiences
-- Exploring **decentralized identity** and **blockchain interoperability**
 
 ## 💞️ Looking to Collaborate On
 - Innovative AI or full-stack projects  
