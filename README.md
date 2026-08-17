@@ -27,4 +27,4 @@ I enjoy turning ideas into complete products — from architecture and UI to API
 
 ## 🤝 Connect
 
-[GitHub](https://github.com/lisenhuang)
+[LinkedIn](https://www.linkedin.com/in/huanglisen)
